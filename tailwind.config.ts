@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        inter: ['Inter', 'sans-serif'], 
+        kalameh: ['Kalameh', 'sans-serif']
+      },
     },
   },
   plugins: [],
