@@ -6,7 +6,6 @@ import logo from "@/components/images/Slice 1.png";
 import NavLink from "./nav-link";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { div } from "motion/react-client";
 
 export default function MainHeader() {
   const [isNavOpen, setIsNavOpen] = useState(false);

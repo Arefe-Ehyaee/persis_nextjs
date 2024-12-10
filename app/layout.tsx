@@ -1,7 +1,7 @@
 import './globals.css';
 import { ReactNode } from "react";
 import MainHeader from "@/components/main-header/main-header";
-import Head from 'next/head';
+
 
 export const metadata = {
   title: 'Persis',

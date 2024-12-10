@@ -1,6 +1,5 @@
 import MainBackground from "@/components/main-header/main-background";
 import Image from "next/image";
-import Link from "next/link";
 import mainImage from "@/components/images/Chat bot-pana.svg"
 
 export default function Home() {
